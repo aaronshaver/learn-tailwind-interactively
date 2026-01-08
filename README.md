@@ -1,2 +1,3 @@
 # learn-tailwind-interactively
-Learn Tailwind CSS classes interactively
+
+Use it here: https://aaronshaver.github.io/learn-tailwind-interactively/
